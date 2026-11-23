@@ -1,3 +1,3 @@
-[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+https://leetcode.com/problems/valid-perfect-square/
 
-Ищу целый корень бинарным поиском. По квадрату середины решаю, какую половину проверять дальше.
+Ищу корень бинарным поиском и сравниваю квадрат середины с исходным числом

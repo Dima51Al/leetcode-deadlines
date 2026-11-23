@@ -1,3 +1,3 @@
-[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+https://leetcode.com/problems/intersection-of-two-arrays/
 
-Превращаю списки в множества и беру общие числа. Так в ответе нет повторов.
+Беру пересечение двух множеств и получаю общие числа без повторов

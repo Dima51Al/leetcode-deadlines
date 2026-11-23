@@ -1,3 +1,3 @@
-[344. Reverse String](https://leetcode.com/problems/reverse-string/)
+https://leetcode.com/problems/reverse-string/
 
-Меняю местами крайние символы и двигаюсь к середине списка.
+Меняю местами крайние символы и двигаюсь к середине списка
